@@ -1,1 +1,1 @@
-# X-and-O-game-in-C-
+Great example from book "Beginning C++ Through Game Programming"
